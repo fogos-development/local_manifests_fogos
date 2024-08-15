@@ -9,6 +9,7 @@
     <!-- Removals -->
 
     <!-- Repos -->
+    <project path="device/motorola/sm6375" name="android_device_motorola_fogos" remote="Motorola-SM6375-Devs" revision="fourteen" />
     <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="Motorola-SM6375-Devs" revision="fourteen" />
     <project path="vendor/motorola/fogos" name="android_vendor_motorola_fogos" remote="Motorola-SM6375-Devs" revision="fourteen" />
     <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="Motorola-SM6375-Devs" revision="fourteen" />
