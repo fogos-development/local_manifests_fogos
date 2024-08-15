@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
+    <remote name="Motorola-SM6375-Devs" fetch="https://github.com/Motorola-SM6375-Devs" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="Motorola-SM6375-Devs" revision="fourteen" />
+    <project path="vendor/motorola/fogos" name="android_vendor_motorola_fogos" remote="Motorola-SM6375-Devs" revision="fourteen" />
+    <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="Motorola-SM6375-Devs" revision="fourteen" />
+    <project path="android_hardware/motorola" name="android_hardware_motorola" remote="LineageOS" revision="lineage-21" />
+
+</manifest>
